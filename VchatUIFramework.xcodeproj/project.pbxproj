@@ -7,6 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B899F8FD18DE7EC100BA7A1E /* SettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B899F8FB18DE7EC100BA7A1E /* SettingViewController.m */; };
+		B899F8FE18DE7EC100BA7A1E /* SettingViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B899F8FC18DE7EC100BA7A1E /* SettingViewController.xib */; };
+		B899F90218DE870200BA7A1E /* ContactVCChatNow.m in Sources */ = {isa = PBXBuildFile; fileRef = B899F90018DE870200BA7A1E /* ContactVCChatNow.m */; };
+		B899F90318DE870200BA7A1E /* ContactVCChatNow.xib in Resources */ = {isa = PBXBuildFile; fileRef = B899F90118DE870200BA7A1E /* ContactVCChatNow.xib */; };
+		B899F90718DE961B00BA7A1E /* ContactVCInvite.m in Sources */ = {isa = PBXBuildFile; fileRef = B899F90518DE961B00BA7A1E /* ContactVCInvite.m */; };
+		B899F90818DE961B00BA7A1E /* ContactVCInvite.xib in Resources */ = {isa = PBXBuildFile; fileRef = B899F90618DE961B00BA7A1E /* ContactVCInvite.xib */; };
+		B899F90C18DE9E8B00BA7A1E /* ContactVCInviteFacebook.m in Sources */ = {isa = PBXBuildFile; fileRef = B899F90A18DE9E8B00BA7A1E /* ContactVCInviteFacebook.m */; };
+		B899F90D18DE9E8B00BA7A1E /* ContactVCInviteFacebook.xib in Resources */ = {isa = PBXBuildFile; fileRef = B899F90B18DE9E8B00BA7A1E /* ContactVCInviteFacebook.xib */; };
+		B8C96E6418DE3D9200E6BB39 /* RecentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8C96E6218DE3D9200E6BB39 /* RecentViewController.m */; };
+		B8C96E6518DE3D9200E6BB39 /* RecentViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B8C96E6318DE3D9200E6BB39 /* RecentViewController.xib */; };
+		B8C96E6918DE3DD000E6BB39 /* ContactViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8C96E6718DE3DD000E6BB39 /* ContactViewController.m */; };
+		B8C96E6A18DE3DD000E6BB39 /* ContactViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B8C96E6818DE3DD000E6BB39 /* ContactViewController.xib */; };
+		B8C96E7318DE45D600E6BB39 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8C96E7118DE45D600E6BB39 /* MainViewController.m */; };
+		B8C96E7418DE45D600E6BB39 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B8C96E7218DE45D600E6BB39 /* MainViewController.xib */; };
 		B8E4FBE118DE2C2C00E11032 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B8E4FBE018DE2C2C00E11032 /* Foundation.framework */; };
 		B8E4FBE318DE2C2C00E11032 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B8E4FBE218DE2C2C00E11032 /* CoreGraphics.framework */; };
 		B8E4FBE518DE2C2C00E11032 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B8E4FBE418DE2C2C00E11032 /* UIKit.framework */; };
@@ -32,6 +46,27 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B899F8FA18DE7EC100BA7A1E /* SettingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingViewController.h; sourceTree = "<group>"; };
+		B899F8FB18DE7EC100BA7A1E /* SettingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingViewController.m; sourceTree = "<group>"; };
+		B899F8FC18DE7EC100BA7A1E /* SettingViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SettingViewController.xib; sourceTree = "<group>"; };
+		B899F8FF18DE870200BA7A1E /* ContactVCChatNow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactVCChatNow.h; sourceTree = "<group>"; };
+		B899F90018DE870200BA7A1E /* ContactVCChatNow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactVCChatNow.m; sourceTree = "<group>"; };
+		B899F90118DE870200BA7A1E /* ContactVCChatNow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ContactVCChatNow.xib; sourceTree = "<group>"; };
+		B899F90418DE961B00BA7A1E /* ContactVCInvite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactVCInvite.h; sourceTree = "<group>"; };
+		B899F90518DE961B00BA7A1E /* ContactVCInvite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactVCInvite.m; sourceTree = "<group>"; };
+		B899F90618DE961B00BA7A1E /* ContactVCInvite.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ContactVCInvite.xib; sourceTree = "<group>"; };
+		B899F90918DE9E8B00BA7A1E /* ContactVCInviteFacebook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactVCInviteFacebook.h; sourceTree = "<group>"; };
+		B899F90A18DE9E8B00BA7A1E /* ContactVCInviteFacebook.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactVCInviteFacebook.m; sourceTree = "<group>"; };
+		B899F90B18DE9E8B00BA7A1E /* ContactVCInviteFacebook.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ContactVCInviteFacebook.xib; sourceTree = "<group>"; };
+		B8C96E6118DE3D9200E6BB39 /* RecentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecentViewController.h; sourceTree = "<group>"; };
+		B8C96E6218DE3D9200E6BB39 /* RecentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecentViewController.m; sourceTree = "<group>"; };
+		B8C96E6318DE3D9200E6BB39 /* RecentViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RecentViewController.xib; sourceTree = "<group>"; };
+		B8C96E6618DE3DD000E6BB39 /* ContactViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactViewController.h; sourceTree = "<group>"; };
+		B8C96E6718DE3DD000E6BB39 /* ContactViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactViewController.m; sourceTree = "<group>"; };
+		B8C96E6818DE3DD000E6BB39 /* ContactViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ContactViewController.xib; sourceTree = "<group>"; };
+		B8C96E7018DE45D600E6BB39 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		B8C96E7118DE45D600E6BB39 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		B8C96E7218DE45D600E6BB39 /* MainViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainViewController.xib; sourceTree = "<group>"; };
 		B8E4FBDD18DE2C2C00E11032 /* VchatUIFramework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VchatUIFramework.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8E4FBE018DE2C2C00E11032 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B8E4FBE218DE2C2C00E11032 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -77,6 +112,27 @@
 		B8E4FBD418DE2C2C00E11032 = {
 			isa = PBXGroup;
 			children = (
+				B8C96E7018DE45D600E6BB39 /* MainViewController.h */,
+				B8C96E7118DE45D600E6BB39 /* MainViewController.m */,
+				B8C96E7218DE45D600E6BB39 /* MainViewController.xib */,
+				B8C96E6118DE3D9200E6BB39 /* RecentViewController.h */,
+				B8C96E6218DE3D9200E6BB39 /* RecentViewController.m */,
+				B8C96E6318DE3D9200E6BB39 /* RecentViewController.xib */,
+				B899F8FA18DE7EC100BA7A1E /* SettingViewController.h */,
+				B899F8FB18DE7EC100BA7A1E /* SettingViewController.m */,
+				B899F8FC18DE7EC100BA7A1E /* SettingViewController.xib */,
+				B8C96E6618DE3DD000E6BB39 /* ContactViewController.h */,
+				B8C96E6718DE3DD000E6BB39 /* ContactViewController.m */,
+				B8C96E6818DE3DD000E6BB39 /* ContactViewController.xib */,
+				B899F8FF18DE870200BA7A1E /* ContactVCChatNow.h */,
+				B899F90018DE870200BA7A1E /* ContactVCChatNow.m */,
+				B899F90118DE870200BA7A1E /* ContactVCChatNow.xib */,
+				B899F90418DE961B00BA7A1E /* ContactVCInvite.h */,
+				B899F90518DE961B00BA7A1E /* ContactVCInvite.m */,
+				B899F90618DE961B00BA7A1E /* ContactVCInvite.xib */,
+				B899F90918DE9E8B00BA7A1E /* ContactVCInviteFacebook.h */,
+				B899F90A18DE9E8B00BA7A1E /* ContactVCInviteFacebook.m */,
+				B899F90B18DE9E8B00BA7A1E /* ContactVCInviteFacebook.xib */,
 				B8E4FBE618DE2C2C00E11032 /* VchatUIFramework */,
 				B8E4FBFF18DE2C2D00E11032 /* VchatUIFrameworkTests */,
 				B8E4FBDF18DE2C2C00E11032 /* Frameworks */,
@@ -219,8 +275,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B899F90818DE961B00BA7A1E /* ContactVCInvite.xib in Resources */,
 				B8E4FBEB18DE2C2C00E11032 /* InfoPlist.strings in Resources */,
+				B899F8FE18DE7EC100BA7A1E /* SettingViewController.xib in Resources */,
+				B899F90318DE870200BA7A1E /* ContactVCChatNow.xib in Resources */,
+				B8C96E7418DE45D600E6BB39 /* MainViewController.xib in Resources */,
+				B8C96E6A18DE3DD000E6BB39 /* ContactViewController.xib in Resources */,
+				B8C96E6518DE3D9200E6BB39 /* RecentViewController.xib in Resources */,
 				B8E4FBF318DE2C2C00E11032 /* Images.xcassets in Resources */,
+				B899F90D18DE9E8B00BA7A1E /* ContactVCInviteFacebook.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,8 +302,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B899F90718DE961B00BA7A1E /* ContactVCInvite.m in Sources */,
+				B8C96E6918DE3DD000E6BB39 /* ContactViewController.m in Sources */,
+				B8C96E7318DE45D600E6BB39 /* MainViewController.m in Sources */,
 				B8E4FBF118DE2C2C00E11032 /* AppDelegate.m in Sources */,
+				B8C96E6418DE3D9200E6BB39 /* RecentViewController.m in Sources */,
+				B899F90218DE870200BA7A1E /* ContactVCChatNow.m in Sources */,
+				B899F90C18DE9E8B00BA7A1E /* ContactVCInviteFacebook.m in Sources */,
 				B8E4FBED18DE2C2C00E11032 /* main.m in Sources */,
+				B899F8FD18DE7EC100BA7A1E /* SettingViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,6 +507,7 @@
 				B8E4FC0B18DE2C2D00E11032 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B8E4FC0C18DE2C2D00E11032 /* Build configuration list for PBXNativeTarget "VchatUIFrameworkTests" */ = {
 			isa = XCConfigurationList;
@@ -445,6 +516,7 @@
 				B8E4FC0E18DE2C2D00E11032 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
